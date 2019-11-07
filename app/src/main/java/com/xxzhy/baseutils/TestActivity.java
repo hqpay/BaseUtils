@@ -1,6 +1,5 @@
 package com.xxzhy.baseutils;
 
-import android.util.Log;
 
 import com.xxzhy.baseutils.base.BaseActivity;
 import com.xxzhy.baseutils.fragment.AuthApi;
